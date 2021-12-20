@@ -1,0 +1,10 @@
+.idea
+.vscode
+node_modules
+dist
+.history
+.DS_Store
+.npmrc
+.env
+*.csv
+telepresence.log
